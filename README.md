@@ -1,4 +1,4 @@
-![](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/IMAGEN.gif)
+![](https://media.giphy.com/media/rvVHtEf42qjWDgmsDp/giphy.gif)
 
 ### Hi there 👋
 
