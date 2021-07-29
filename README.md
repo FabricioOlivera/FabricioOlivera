@@ -1,4 +1,7 @@
+![](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/IMAGEN.gif)
+
 ### Hi there 👋
+
 I am a Software Developer Trainee aiming to gain experience and improve my programming skills by creating projects. I like to improve myself every day regardless of the complexity, my focus is always on solving the ongoing problem.
 
 About me:
