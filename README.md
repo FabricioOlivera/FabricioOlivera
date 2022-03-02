@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a Software Developer Trainee aiming to gain experience and improve my programming skills by creating projects. I like to improve myself every day regardless of the complexity, my focus is always on solving the ongoing problem.
+I am a dedicated, detail-oriented professional and experienced developer with a passion for developing innovative programs that contribute to organizational success. I look forward to bringing that passion to a full-time position.
 
 About me:
 
