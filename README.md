@@ -6,9 +6,9 @@ I am a dedicated, detail-oriented professional and experienced developer with a 
 
 About me:
 
-- 🌱 I’m currently learning Web and mobile development.
-- 💬 Ask me about my projects!
-- ⚡ I love learning new things and exploring new technologies.
+- I’m currently learning Web and mobile development.
+- Ask me about my projects!
+- I love learning new things and exploring new technologies.
 
-CONTACT ME: www.linkedin.com/in/fabricio-efrain-olivera-30396813b
+CONTACT ME: https://www.linkedin.com/in/fabricio-olivera-developer/
 
