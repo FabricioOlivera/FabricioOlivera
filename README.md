@@ -24,6 +24,24 @@ I am a dedicated, detail-oriented Full Stack Developer and experienced developer
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
+  
+  
+ <h3 align="left">My proyects</h3> 
+ <p>
+  <a><img src="https://user-images.githubusercontent.com/78769625/158902871-95403533-0896-451c-ba10-30d31a54f502.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/78769625/158903702-178139f2-d049-4f84-a73b-15134db19837.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/78769625/158904096-e67088aa-d31d-4229-acd7-8f8a93afb507.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/78769625/158904188-815e8ee2-ac9a-42fc-bebb-6d45760aecdc.png"></a>
+  </p>
+  
+
+
+ 
+  
+
+  
+
+
 
 
 
