@@ -9,5 +9,5 @@ About me:
 - Ask me about my projects!
 - I love learning new things and exploring new technologies.
 
-CONTACT ME: https://www.linkedin.com/in/fabricio-olivera-developer/
+CONTACT ME: https://www.linkedin.com/in/fabricio-olivera-developer/ or oliverafabricio25@gmail.com
 
