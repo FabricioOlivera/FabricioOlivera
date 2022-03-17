@@ -4,7 +4,7 @@
 
 I am a dedicated, detail-oriented Full Stack Developer and experienced developer with a passion for developing innovative programs that contribute to organizational success. I like to improve myself every day regardless of the complexity, my focus is always on solving the problem in progress.
 
-About me:
+<h3 align="left">About me:</h3>
 
 - I’m currently learning Web and mobile development.
 - Ask me about my projects!
