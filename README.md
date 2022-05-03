@@ -38,6 +38,10 @@ I am a dedicated, detail-oriented Full Stack Developer and experienced developer
   </p>
   <p>
   The project is about Countries and consists of a SPA (Single Page Application) using React for the Front End and redux as state management. All components were developed with CSS without the use of external libraries. The SPA consumes data from an API (restcountries) and a Database created in postgreSQl, through a Back End developed in Node.Js using Express, adding new features to the original API. Some features of the project: Sorting and filters, controlled form for creating activities, search cache.
+  <p>
+    https://www.linkedin.com/feed/update/urn:li:activity:6910047377395449856/
+  </p>
+  
   </p>
   <p>
   <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158905937-14ed12a9-4c21-4541-91cc-95f5a9126c2b.png" alt="SearchBar"></a>
@@ -49,7 +53,9 @@ I am a dedicated, detail-oriented Full Stack Developer and experienced developer
  <h2 align="left">E-commerce Beef Shop</h2>
  <p>
   Development of a SPA (Single Page Application) using React for the Front End and redux as state management. All the components were developed with CSS without the   use of libraries external. The SPA consumes data from an API (restcountries) and a Database created in postgreSQl, through a Back End developed in Node.Js using     Express, adding new functionalities to the original API. Some features of the project: Ordering and filters, controlled form for the creation of activities, cache   of search.
+  <p>
   https://beefshop.vercel.app/
+  </p>
 </p>
 
     
