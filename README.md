@@ -49,6 +49,7 @@ I am a dedicated, detail-oriented Full Stack Developer and experienced developer
  <h2 align="left">E-commerce Beef Shop</h2>
  <p>
   Development of a SPA (Single Page Application) using React for the Front End and redux as state management. All the components were developed with CSS without the   use of libraries external. The SPA consumes data from an API (restcountries) and a Database created in postgreSQl, through a Back End developed in Node.Js using     Express, adding new functionalities to the original API. Some features of the project: Ordering and filters, controlled form for the creation of activities, cache   of search.
+  https://beefshop.vercel.app/
 </p>
 
     
