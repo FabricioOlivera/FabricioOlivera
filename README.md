@@ -55,9 +55,9 @@ I am a dedicated, detail-oriented Full Stack Developer and experienced developer
   Development of a SPA (Single Page Application) using React for the Front End and redux as state management. All the components were developed with CSS without the   use of libraries external. The SPA consumes data from an API (restcountries) and a Database created in postgreSQl, through a Back End developed in Node.Js using     Express, adding new functionalities to the original API. Some features of the project: Ordering and filters, controlled form for the creation of activities, cache   of search.
    <p>
   <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/166521348-ced29bec-51b1-4576-b7d7-2ac42a26bf61.png" alt=""></a>
-  <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158906166-53c69e53-aaf2-45d3-aac6-192429046692.png" alt="Add activity"></a>
-  <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158906317-76a0e66b-1c9f-442f-8f74-36c7f5f14632.png" alt="Create activity"></a>
- </p>
+  <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/166521896-76bfb380-16af-4dcd-82bb-bdd238cf0e52.png" alt=""></a>
+  <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/166522037-aad8d7ec-43f9-46a5-a9e5-e01d018c0777.png" alt=""></a>
+  </p>
   <p>
   https://beefshop.vercel.app/
   </p>
