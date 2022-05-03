@@ -46,6 +46,10 @@ I am a dedicated, detail-oriented Full Stack Developer and experienced developer
   <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158906749-85cf0eda-94d3-4f69-898a-a59aba31f717.png" alt="Country detail"></a>
   <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158906563-2b3d3750-57cc-454f-9cad-ecd01ee54796.png" alt="Activity created in the country"></a>
  </p>
+ <h2 align="left">E-commerce Beef Shop</h2>
+ <p>
+  Development of a SPA (Single Page Application) using React for the Front End and redux as state management. All the components were developed with CSS without the   use of libraries external. The SPA consumes data from an API (restcountries) and a Database created in postgreSQl, through a Back End developed in Node.Js using     Express, adding new functionalities to the original API. Some features of the project: Ordering and filters, controlled form for the creation of activities, cache   of search.
+</p>
 
     
 <h3 align="left">Connect with me:</h3>
