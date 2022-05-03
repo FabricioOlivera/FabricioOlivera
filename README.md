@@ -30,26 +30,20 @@ I am a dedicated, detail-oriented Full Stack Developer and experienced developer
  <h3 align="left">My proyects:</h3>
  <h2 align="left">Country application</h2>
  
- <p>
+  <p>
+  The project is about Countries and consists of a SPA (Single Page Application) using React for the Front End and redux as state management. All components were developed with CSS without the use of external libraries. The SPA consumes data from an API (restcountries) and a Database created in postgreSQl, through a Back End developed in Node.Js using Express, adding new features to the original API. Some features of the project: Sorting and filters, controlled form for creating activities, search cache.
+  </p>
+   <p>
   <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158902871-95403533-0896-451c-ba10-30d31a54f502.png" alt="Landing Page" ></a>
   <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158903702-178139f2-d049-4f84-a73b-15134db19837.png" alt="Home and paginated "></a>
   <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158904096-e67088aa-d31d-4229-acd7-8f8a93afb507.png" alt="Filter by continent"></a>
-  <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158905744-134ed46f-d858-4e77-9033-3e3e2eb4a245.png" alt="Sort alphabet by"></a>
+ 
   </p>
-  <p>
-  The project is about Countries and consists of a SPA (Single Page Application) using React for the Front End and redux as state management. All components were developed with CSS without the use of external libraries. The SPA consumes data from an API (restcountries) and a Database created in postgreSQl, through a Back End developed in Node.Js using Express, adding new features to the original API. Some features of the project: Sorting and filters, controlled form for creating activities, search cache.
   <p>
     https://www.linkedin.com/feed/update/urn:li:activity:6910047377395449856/
   </p>
   
-  </p>
-  <p>
-  <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158905937-14ed12a9-4c21-4541-91cc-95f5a9126c2b.png" alt="SearchBar"></a>
-  <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158906166-53c69e53-aaf2-45d3-aac6-192429046692.png" alt="Add activity"></a>
-  <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158906317-76a0e66b-1c9f-442f-8f74-36c7f5f14632.png" alt="Create activity"></a>
-  <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158906749-85cf0eda-94d3-4f69-898a-a59aba31f717.png" alt="Country detail"></a>
-  <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158906563-2b3d3750-57cc-454f-9cad-ecd01ee54796.png" alt="Activity created in the country"></a>
- </p>
+  
  <h2 align="left">E-commerce Beef Shop</h2>
  <p>
   Development of a SPA (Single Page Application) using React for the Front End and redux as state management. All the components were developed with CSS without the   use of libraries external. The SPA consumes data from an API (restcountries) and a Database created in postgreSQl, through a Back End developed in Node.Js using     Express, adding new functionalities to the original API. Some features of the project: Ordering and filters, controlled form for the creation of activities, cache   of search.
