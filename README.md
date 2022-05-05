@@ -46,7 +46,11 @@ I am a dedicated, detail-oriented Full Stack Developer and experienced developer
   
  <h3 align="left">E-commerce Beef Shop</h3>
  <p>
-  Development of a SPA (Single Page Application) using React for the Front End and redux as state management. All the components were developed with CSS without the   use of libraries external. The SPA consumes data from an API (restcountries) and a Database created in postgreSQl, through a Back End developed in Node.Js using     Express, adding new functionalities to the original API. Some features of the project: Ordering and filters, controlled form for the creation of activities, cache   of search.
+  Participation in an agile development team with one-week sprints presenting to a Product Owner progress on the development of a complete app for an E-commerce       with design and development of the following features: Basic e-commerce features (CRUD of products, auth, catalog, checkout, etc..)
+  - Payment gateway integration (Mercado Pago).
+  - Sending transactional emails (Node mailer).
+  -Administration of shopping cart and product orders,
+  -User administration, key management
    <p>
   <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/166521348-ced29bec-51b1-4576-b7d7-2ac42a26bf61.png" alt=""></a>
   <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/166521896-76bfb380-16af-4dcd-82bb-bdd238cf0e52.png" alt=""></a>
