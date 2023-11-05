@@ -2,18 +2,21 @@
 
 ### Hi there 👋
 
-I am a dedicated, detail-oriented Full Stack Developer and experienced developer with a passion for developing innovative programs that contribute to organizational success. I like to improve myself every day regardless of the complexity, my focus is always on solving the problem in progress.
+I am a passionate Full Stack developer with a meticulous focus and extensive experience in creating innovative programs that drive organizational success. My commitment to continuous improvement leads me to tackle complex challenges with determination, always with the goal of finding effective solutions. Committed to excellence in software development, my mission is to add value through technology and contribute to the advancement of meaningful projects.
 
 <h3 align="left">About me:</h3>
 
-- I’m currently learning Web and mobile development.
-- Ask me about my projects!
-- I love learning new things and exploring new technologies.
+* I am currently immersed in learning and development within the fields of web and mobile development.
+* Feel free to ask me about my projects.
+* My passion lies in acquiring new knowledge and exploring the latest technologies.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
+ <a href="https://angular.io/" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" alt="Angular" width="40" height="40"/>
+  </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
@@ -24,6 +27,24 @@ I am a dedicated, detail-oriented Full Stack Developer and experienced developer
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.ruby-lang.org/" target="_blank">
+    <img src="https://e7.pngegg.com/pngimages/24/674/png-clipart-web-development-ruby-on-rails-programming-language-computer-programming-ruby-text-logo-thumbnail.png" alt="Ruby on Rails" width="40" height="40"/>
+  </a>
+<a href="https://www.apple.com/ios" target="_blank">
+    <img src="https://www.stickersmurali.com/it/img/asfs140-jpg/folder/products-listado-merchant/adesivi-apple-logo.jpg" alt="iOS" width="40" height="40"/>
+  </a>
+  <a href="https://www.android.com/" target="_blank">
+    <img src="https://images.vexels.com/media/users/3/139556/isolated/preview/1718a076e29822051df8bcf8b5ce1124-logotipo-de-android.png" alt="Android" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://w7.pngwing.com/pngs/34/543/png-transparent-docker-plain-wordmark-logo-icon-thumbnail.png" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://logowik.com/content/uploads/images/openai5002.jpg" height="40"/>
+  </a>
   
   
   
