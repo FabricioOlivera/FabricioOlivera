@@ -13,7 +13,7 @@ I am a passionate Full Stack developer with a meticulous focus and extensive exp
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="URL_DE_JAVA" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/019/899/953/non_2x/java-free-download-free-png.png" alt="Java" width="40" height="40"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/019/899/953/non_2x/java-free-download-free-png.png" alt="Java" width="50" height="50"/>
   </a>
   <a href="URL_DE_PYTHON" target="_blank">
     <img src="https://toppng.com/uploads/preview/python-language-icon-python-programming-language-icon-11553482772flfuzsqwz4.png" alt="Python" width="40" height="40"/>
@@ -32,7 +32,7 @@ I am a passionate Full Stack developer with a meticulous focus and extensive exp
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express"  height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
@@ -47,7 +47,7 @@ I am a passionate Full Stack developer with a meticulous focus and extensive exp
     <img src="https://images.vexels.com/media/users/3/139556/isolated/preview/1718a076e29822051df8bcf8b5ce1124-logotipo-de-android.png" alt="Android" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" alt="AWS" width="40" height="40"/>
+    <img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" alt="AWS" width="60" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://w7.pngwing.com/pngs/34/543/png-transparent-docker-plain-wordmark-logo-icon-thumbnail.png" alt="Docker" width="40" height="40"/>
