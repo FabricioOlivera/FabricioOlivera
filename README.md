@@ -13,7 +13,7 @@ I am a passionate Full Stack developer with a meticulous focus and extensive exp
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="URL_DE_JAVA" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/019/899/953/non_2x/java-free-download-free-png.png" alt="Java" width="50" height="50"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/019/899/953/non_2x/java-free-download-free-png.png" alt="Java" width="50" height="40"/>
   </a>
   <a href="URL_DE_PYTHON" target="_blank">
     <img src="https://toppng.com/uploads/preview/python-language-icon-python-programming-language-icon-11553482772flfuzsqwz4.png" alt="Python" width="40" height="40"/>
@@ -32,7 +32,7 @@ I am a passionate Full Stack developer with a meticulous focus and extensive exp
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"  height="50"/> </a> 
+<a href="https://expressjs.com" target="_blank"> <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"  height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
