@@ -58,7 +58,7 @@ I am a passionate Full Stack developer with a meticulous focus and extensive exp
   
   
   
- <h3 align="left">My proyects:</h3>
+ <h3 align="left">My projects:</h3>
  <h3 align="left">Country application</h3>
  
   <p>
