@@ -11,7 +11,16 @@ I am a passionate Full Stack developer with a meticulous focus and extensive exp
 * My passion lies in acquiring new knowledge and exploring the latest technologies.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
+<p align="left">  <a href="URL_DE_JAVA" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/019/899/953/non_2x/java-free-download-free-png.png" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="URL_DE_PYTHON" target="_blank">
+    <img src="https://toppng.com/uploads/preview/python-language-icon-python-programming-language-icon-11553482772flfuzsqwz4.png" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="URL_DE_PHP" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWFKNxRfzBucVZEeBH-mIxl_WiHYrUFQrB5Q&usqp=CAU" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
  <a href="https://angular.io/" target="_blank">
